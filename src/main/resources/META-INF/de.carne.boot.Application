@@ -1,0 +1,3 @@
+de.carne.netscanner.NetScannerMain
+java.util.logging.config.class = de.carne.util.logging.Config
+de.carne.util.prefs.FilePreferences = .de.carne.netscanner
